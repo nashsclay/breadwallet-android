@@ -33,7 +33,7 @@
                 android:layout_width="120dp"
                 android:layout_height="70dp"
                 android:layout_centerHorizontal="true"
-                android:src="@drawable/brd_logo_gradient" />
+                android:src="@drawable/electra_logo_full" />
 
             <com.breadwallet.presenter.customviews.BaseTextView
                 android:id="@+id/subtitle"

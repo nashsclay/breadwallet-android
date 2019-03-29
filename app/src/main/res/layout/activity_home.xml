@@ -29,7 +29,7 @@
                 android:layout_centerHorizontal="true"
                 android:layout_marginStart="16dp"
                 android:layout_marginTop="60dp"
-                android:background="@drawable/brd_logo_gradient" />
+                android:background="@drawable/electra_logo_full" />
 
             <com.breadwallet.presenter.customviews.BaseTextView
                 android:id="@+id/total_assets_label"
